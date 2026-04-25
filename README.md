@@ -276,34 +276,6 @@ flutter build ios --release
 
 ---
 
-## Screenshots
-
-> _Add screenshots of the Login, Student Home, Court Booking, Organizer Event Management, and Admin Dashboard screens here._
-
-| Login | Student Home | Court Booking |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
-| Organizer Events | Admin Dashboard | Reservation Details |
-|---|---|---|
-| _(screenshot)_ | _(screenshot)_ | _(screenshot)_ |
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your feature"`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
-Please follow the existing code style and ensure `flutter analyze` passes before submitting.
-
----
-
 ## License
 
 This project is developed as part of an academic project at **Universiti Teknologi Malaysia (UTM), Fakulti Computing**. All rights reserved.
