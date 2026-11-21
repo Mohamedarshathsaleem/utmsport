@@ -1,0 +1,9 @@
+# Generated Flutter platform runners (C++/Swift/Kotlin boilerplate) shouldn't count
+# towards the repo language; this keeps GitHub showing the project as Dart.
+flutter_application_1/linux/** linguist-vendored
+flutter_application_1/macos/** linguist-vendored
+flutter_application_1/windows/** linguist-vendored
+flutter_application_1/ios/** linguist-vendored
+flutter_application_1/android/** linguist-vendored
+flutter_application_1/web/** linguist-vendored
+androidxml-backup/** linguist-vendored

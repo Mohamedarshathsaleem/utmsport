@@ -1,5 +1,17 @@
 # UTMSport 🏸
 
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.5-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20Storage-FFCA28?logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-payments-635BFF?logo=stripe&logoColor=white)
+
+**Book UTM sports courts, run campus tournaments and manage it all from one Flutter app, with separate experiences for students, organisers and admins.**
+
+<!-- Add 3 screenshots side by side (student booking, organiser event form, admin dashboard): -->
+<!-- <p align="center"><img src="docs/student.png" width="250"> <img src="docs/organizer.png" width="250"> <img src="docs/admin.png" width="250"></p> -->
+
+<!-- Optional: attach a release APK so reviewers can try it: [⬇️ Download APK](https://github.com/Mohamedarshathsaleem/utmsport/releases/latest) -->
+
 A Flutter mobile application for managing sports court bookings and events at Universiti Teknologi Malaysia (UTM). UTMSport provides a unified platform for students, event organizers, and administrators to book courts, manage sporting events, and oversee user accounts — all backed by Firebase.
 
 ---
@@ -15,8 +27,8 @@ A Flutter mobile application for managing sports court bookings and events at Un
 - [Getting Started](#getting-started)
 - [Firebase Setup](#firebase-setup)
 - [Running the App](#running-the-app)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
+- [My Role](#my-role)
+- [Team](#team)
 - [License](#license)
 
 ---
@@ -273,6 +285,20 @@ Or to build:
 ```bash
 flutter build ios --release
 ```
+
+---
+
+## My Role
+
+UTMSport was built by a 4-person team over a 4-sprint Agile Scrum cycle for the Mobile Application Programming course. I owned the **organiser module** and **booking records**:
+
+- Organiser event management: creating, editing and publishing events, with status flow Draft → Published → Completed / Cancelled
+- Firestore-backed reservation records in the admin booking-management screen
+- A redesign of the event booking and organiser screens for a cleaner, minimal UI
+
+## Team
+
+Mohamed Arshath · Muhammad Aqil Haziq · Muhammad Fahim · Ali Hariz. Original team repository: [Dart-Master/utmsport](https://github.com/Dart-Master/utmsport).
 
 ---
 
